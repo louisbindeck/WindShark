@@ -1,0 +1,50 @@
+
+*{
+			text-decoration: none;
+		}
+		.homebar{
+			background: rgb(33, 67, 223); font-family: calibri; padding-right: 15px;padding-left: 15px;
+		}
+		.homediv{
+			display: flex; align-items: center; justify-content: space-between;
+		}
+		.logo a{
+			font-size: 35px; font-weight: 600; color: white; padding: 50px;
+		}
+		li{
+			list-style: none; display: inline-block;
+		}
+		li a{
+			color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+		}
+		button{
+            border: none;
+			background-color: rgb(255, 255, 255); margin-left: 10px; border-radius: 10px; padding: 10px; width: 90px;
+		}
+		button a{
+			color: rgb(0, 0, 0); font-weight: bold; font-size: 15px;
+		}
+
+        p{
+            font-family: calibri; font-size: 50px;
+        }
+
+        .homeparagraph{
+            padding-top: 100px; padding-left: 50px; padding-bottom: 0px; margin-bottom: 0px;
+        }
+
+        .homeparagraph2{
+            padding-left: 50px; margin-top: 5px; font-size: 30px;
+        }
+
+        .getstarted-button{
+            margin-left: 50px; background-color: rgb(33, 67, 223); font-family: calibri; font-size: 20px; height: 50px; width: 130px; padding: 10px; ; white-space: nowrap; cursor: pointer;
+        }
+
+        .getstarted-button a{
+            color: white; font-family: calibri; font-size: 18px;
+        }
+
+        .getstarted-button a:hover{
+            text-decoration: underline;
+        }
